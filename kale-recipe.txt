@@ -1,2 +1,4 @@
 kale 1kg
 water 1000mg
+mix water with kale
+drink !
